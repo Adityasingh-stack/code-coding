@@ -1,2 +1,3 @@
 # code-coding
-this is my first repository
+This Is My First Repository <br>
+Author : Aditya Kumar
